@@ -1,8 +1,8 @@
 const points = [
-    "",
-    "",
-    "",
-    "",
+    "no",
+    "yes",
+    "maybe",
+    "nahhh",
     "",
     "",
     "",
