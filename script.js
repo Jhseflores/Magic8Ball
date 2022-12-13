@@ -3,10 +3,10 @@ const points = [
     "yes",
     "maybe",
     "nahhh",
-    "",
-    "",
-    "",
-    "",
+    "try again",
+    "Dust urself off and try again",
+    "Nice one",
+    "In ur dreams",
 ];
 document.getElementById("response").innerHTML=points;
 
