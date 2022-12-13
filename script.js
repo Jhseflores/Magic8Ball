@@ -8,7 +8,6 @@ const points = [
     "Nice one",
     "In ur dreams",
 ];
-document.getElementById("response").innerHTML=points;
 
 function myFunction(){
     points.sort(function(a,b){return 0.5 - Math.random()});
