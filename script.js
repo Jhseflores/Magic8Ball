@@ -1,3 +1,4 @@
+
 const points = [
     "no",
     "yes",
